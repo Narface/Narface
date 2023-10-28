@@ -41,6 +41,6 @@
 ¡No dudes en explorar mis proyectos y unirte a mí en este viaje!
 
 ## Contacto
-Puedes encontrarme en [![LinkedIn](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/)] para mantenernos en contacto y seguir mi trabajo.
+Puedes encontrarme en [![LinkedIn]](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto y seguir mi trabajo.
 
 ¡Gracias por visitar mi perfil!
