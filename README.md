@@ -1,3 +1,6 @@
+<!-- Banner de Cabecera -->
+![Banner de Cabecera](http://www.lscvsystems.com/images/lscv/servicios_presentacion/hacker_P.jpg)
+
 <h1 align="center"> ¡Hola a todos!👋 Soy Fran </h1>
 <h3 align="center"></h3>
 
@@ -34,7 +37,6 @@
 
 ## Proyectos Destacados
 - [Proyecto 1](link_al_proyecto_1) - Una breve descripción de tu proyecto.
-- [Proyecto 2](link_al_proyecto_2) - Otra descripción breve.
 
 ¡No dudes en explorar mis proyectos y unirte a mí en este viaje!
 
