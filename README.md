@@ -1,11 +1,11 @@
-<h1 align="center">Hi, 👋 I'm Fran</h1>
+<h1 align="center"> ¡Hola a todos!👋 Soy Fran </h1>
 <h3 align="center"></h3>
 
 # Bienvenido a mi perfil de GitHub
 
 ## Sobre mí
 
-¡Hola! Soy [Tu Nombre], un apasionado de la ciberseguridad, el desarrollo web y la auditoría de sistemas. Con una formación en ASIR, DAW y un Máster en Ciberseguridad y Hacking Ético, busco mejorar el mundo en línea a través de la tecnología y la seguridad de la información.
+¡Hola! Soy Fran, un apasionado de la ciberseguridad, el desarrollo web y la auditoría de sistemas. Con una formación en ASIR, DAW y un Máster en Ciberseguridad y Hacking Ético, busco mejorar el mundo en línea a través de la tecnología y el aprendizaje continuo.
 
 ## Tecnologías y Habilidades
 
@@ -29,9 +29,9 @@
 - [Proyecto 1](link_al_proyecto_1) - Una breve descripción de tu proyecto.
 - [Proyecto 2](link_al_proyecto_2) - Otra descripción breve.
 
-¡No dudes en explorar mis proyectos y unirte a mí en este viaje hacia un mundo más seguro y tecnológicamente avanzado!
+¡No dudes en explorar mis proyectos y unirte a mí en este viaje!
 
 ## Contacto
-Puedes encontrarme en [LinkedIn](enlace_a_tu_perfil_de_LinkedIn) y [Twitter](enlace_a_tu_perfil_de_Twitter) para mantenernos en contacto y seguir mi trabajo.
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/)  para mantenernos en contacto y seguir mi trabajo.
 
 ¡Gracias por visitar mi perfil!
