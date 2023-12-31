@@ -35,12 +35,20 @@
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF4700?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+## Certificaciones
+
+### Offensive Security Certified Professional (OSCP)
+
+Estoy actualmente preparándome para obtener la certificación OSCP de Offensive Security.
+
+<img src="https://grupooruss.com/wp-content/uploads/2017/11/OSCP.png" alt="OSCP Badge" width="150">
+
 ## Proyectos Destacados
-- [Proyecto 1]([link_al_proyecto_1](https://github.com/Narface/narface.github.io)) - Creación de mi blog de ciberseguridad.
+- [Proyecto 1](https://github.com/Narface/narface.github.io) - Creación de mi blog de ciberseguridad.
 
 ¡No dudes en explorar mis proyectos y unirte a mí en este viaje!
 
 ## Contacto
-Puedes encontrarme en [![LinkedIn]](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto y seguir mi trabajo.
+Puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto y seguir mi trabajo.
 
-¡Gracias por visitar mi perfil!
+¡Gracias por visitar mi perfil!😁
