@@ -36,7 +36,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## Proyectos Destacados
-- [Proyecto 1](link_al_proyecto_1) - Descripción proyecto.
+- [Proyecto 1]([link_al_proyecto_1](https://github.com/Narface/narface.github.io)) - Creación de mi blog de ciberseguridad.
 
 ¡No dudes en explorar mis proyectos y unirte a mí en este viaje!
 
